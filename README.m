@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aisyarafa
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, and IoT
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Data Analyst, Data Science, and Data Engineer 
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 You can reach me by email: aisya.rafa@gmail.com
