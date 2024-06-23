@@ -16,8 +16,8 @@ I'm a proud honors graduate from Universitas Indonesia with a major in Electrica
 ## 📈 Project Highlights:
 
 ## 📂 Project Portfolio:
-- **[Bisa.AI Data Science Bootcamp - Final Project](#)**: Developed a machine learning model to predict health insurance costs using linear regression. The model achieved acceptable accuracy despite only meeting 2 out of 5 assumptions. Key insights included the significant impact of smoking status and BMI on insurance costs.
-- **[RevoU Data Analytics Bootcamp](#)**: Comprehensive projects covering data analysis, business problem solving, data visualization, and SQL. Highlights include:
+- [Bisa.AI Bootcamp Project](https://github.com/aisyarafa/Bisa.AI) - Developed a machine learning model to predict health insurance costs using linear regression. The model achieved acceptable accuracy despite only meeting 2 out of 5 assumptions. Key insights included the significant impact of smoking status and BMI on insurance costs.
+- [RevoU Data Analytics Bootcamp](https://github.com/aisyarafa/RevoU) - Comprehensive projects covering data analysis, business problem solving, data visualization, and SQL. Highlights include:
   - **Data Analysis Project**: Conducted thorough data analysis using Python and SQL to derive actionable insights for business problems.
   - **Business Problem Solving**: Identified and analyzed business problems, presenting solutions using data-driven approaches.
   - **Data Visualization**: Created interactive dashboards and visualizations using Power BI and Tableau to communicate findings effectively.
