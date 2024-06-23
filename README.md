@@ -1,6 +1,6 @@
 # Hi there, I'm Aisya Rafa Maharani! 👋
 
-I'm a fresh graduate with honors from Universitas Indonesia, majoring in Electrical Engineering. I'm passionate about data science, data analysis, business analysis, and business intelligence. Available for hire.
+I'm a proud honors graduate from Universitas Indonesia with a major in Electrical Engineering. My passion lies at the intersection of data science, data analysis, business analysis, and business intelligence. I thrive on turning complex data into actionable insights and innovative solutions. Currently, I'm seeking exciting opportunities where I can contribute my skills and grow professionally. Let's connect and create something amazing together!
 
 ## 🛠 My Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
