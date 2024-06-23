@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Aisya Rafa Maharani! 👋
 
-<!--
-**aisyarafa/aisyarafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fresh graduate with honors from Universitas Indonesia, majoring in Electrical Engineering. I'm passionate about data science, data analysis, business analysis, and business intelligence. Available for hire.
 
-Here are some ideas to get you started:
+## 🛠 My Tech Stack:
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=MathWorks)
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
+![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=Power-BI)
+![Looker Studio](https://img.shields.io/badge/-Looker_Studio-000?&logo=Google)
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=Microsoft-Excel)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Project Highlights:
+
+## 📂 Project Portfolio:
+
+## 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🤝 Connect with Me!
+[LinkedIn](https://www.linkedin.com/in/aisya-rafa-maharani-6a7123253/)  
+[Email](mailto:aisya.rafa@gmail.com)
+
+---
+
+Thanks for visiting my profile! 😊
